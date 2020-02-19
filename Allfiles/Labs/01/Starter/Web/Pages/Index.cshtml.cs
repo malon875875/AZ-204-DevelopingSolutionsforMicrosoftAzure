@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Web.Pages
 {
+    // https://www.learnrazorpages.com/razor-pages/pagemodel
     public class IndexModel : PageModel
     {
         private HttpClient _httpClient;
