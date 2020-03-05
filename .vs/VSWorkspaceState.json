@@ -3,12 +3,13 @@
     "",
     "\\Allfiles",
     "\\Allfiles\\Labs",
-    "\\Allfiles\\Labs\\03",
-    "\\Allfiles\\Labs\\03\\Solution\\BlobManager",
     "\\Allfiles\\Labs\\03\\Starter",
     "\\Allfiles\\Labs\\03\\Starter\\BlobManager",
-    "\\Allfiles\\Labs\\03\\Starter\\Images"
+    "\\Allfiles\\Labs\\03\\Starter\\Images",
+    "\\Allfiles\\Labs\\04",
+    "\\Allfiles\\Labs\\04\\Starter",
+    "\\Allfiles\\Labs\\04\\Starter\\AdventureWorks"
   ],
-  "SelectedNode": "\\Allfiles\\Labs\\03\\Starter\\BlobManager",
+  "SelectedNode": "\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.sln",
   "PreviewInSolutionExplorer": false
 }
