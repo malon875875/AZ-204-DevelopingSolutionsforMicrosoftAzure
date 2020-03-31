@@ -3,13 +3,12 @@
     "",
     "\\Allfiles",
     "\\Allfiles\\Labs",
-    "\\Allfiles\\Labs\\06\\Solution",
-    "\\Allfiles\\Labs\\06\\Starter",
-    "\\Allfiles\\Labs\\08",
-    "\\Allfiles\\Labs\\08\\Starter",
-    "\\Allfiles\\Labs\\09",
-    "\\Allfiles\\Labs\\09\\Starter"
+    "\\Allfiles\\Labs\\10\\Starter",
+    "\\Allfiles\\Labs\\10\\Starter\\EventPublisher",
+    "\\Allfiles\\Labs\\12",
+    "\\Allfiles\\Labs\\12\\Starter",
+    "\\Allfiles\\Labs\\12\\Starter\\Api"
   ],
-  "SelectedNode": "\\Allfiles\\Labs\\09\\Starter\\item_01.json",
+  "SelectedNode": "\\Allfiles\\Labs\\12\\Starter\\Api\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
